@@ -11,7 +11,7 @@ import random
 
 load_dotenv(find_dotenv())
 
-key = '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'
+key =os.environ["OPENAI_API_KEY"]
 
 st.set_page_config(page_title="🤖 🧠 💬 Ravansha")
 
