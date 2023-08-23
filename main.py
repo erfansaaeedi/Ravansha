@@ -11,7 +11,7 @@ import random
 
 load_dotenv(find_dotenv())
 
-key = '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'
+key = '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'
 
 st.set_page_config(page_title="🤖 🧠 💬 Ravansha")
 
